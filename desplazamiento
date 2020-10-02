@@ -1,0 +1,3 @@
+div.owl-next{right:-33px !important}
+div.owl-prev.disabled{left:-33px !important}
+div.owl-prev{left:-33px !important}
